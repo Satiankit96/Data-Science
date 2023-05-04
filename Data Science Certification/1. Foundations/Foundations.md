@@ -1,5 +1,5 @@
 Chapter 1 - Foundations
-Date - 5/4/2023
+Date - 5/3/2023
 
 - This is a series with a total of 8 certificates and a capstone Project in the end.
 - In this first part we just learn about the course sturcture in its entirity.
