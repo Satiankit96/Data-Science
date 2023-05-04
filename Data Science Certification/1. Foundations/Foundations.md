@@ -18,3 +18,16 @@ Date - 5/4/2023
     - Discovering data career possibilities - Maintain balance and find the strenths within the program.
 
     - Challenges - Questions and quizes throughtout the course. Graded.
+
+Best ways to get through the course. 
+ - In order to analyse anything, it is mandatory to have an idea of the industry that suits.
+ - Best practices that are used to analyze the data.
+ - The first part will take us through the initial life cycle of any decision that is made. (These are the same that we have used on the job)
+ 1. Ask
+ 2. Prepare
+ 3. Process 
+ 4. Analyze
+ 5. Share 
+ 6. Act 
+
+ TODO - Take the plugins part toomorrow and finish the week 1. 
