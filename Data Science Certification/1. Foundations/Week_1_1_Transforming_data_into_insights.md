@@ -63,3 +63,8 @@ In conclusion it was found out that there was an 125% increase in the retention 
 PART 2 
 
 Dimensions of data analytics
+Here they talked about the disciplines of DS.
+Three most important ones being. These are all separated by the number of the decisions that you wnat to take before you begin with them.
+1. Machine learning - many decisions/Automated decisions made under uncertainity is AI and ML.
+2. Statistics - A few decisions made under uncertainity.
+3. Analytics - Over here you do not know much about the data. Here many disciplines are needed. Most of the work is exploratory.
