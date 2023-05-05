@@ -30,4 +30,6 @@ Best ways to get through the course.
  5. Share 
  6. Act 
 
+Grade required to skip - 80 
+Grade received - 85
  TODO - Take the plugins part toomorrow and finish the week 1. 
