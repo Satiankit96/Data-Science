@@ -56,3 +56,10 @@ We need to collectively move towards achieveing that goal.
 
 CONCLUSION
 In conclusion it was found out that there was an 125% increase in the retention rate of employees between 2 fiscal years.
+
+
+
+
+PART 2 
+
+Dimensions of data analytics
