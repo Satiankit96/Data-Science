@@ -17,3 +17,10 @@ The two key roles.
 There are some other key elements of the data ecosystem.
 - Data Analytics - This is the super set, which can be defined as the science of data. It has got all the information about a data eco system (Starting  from tools to the data sources)/
 - Data Analysis - This is the part where we are using the data to make predictions about the original problem statement that was posed.
+
+Importance of data 
+- Data Driven decision making - Business stratergy. Helps them compete better at every step.
+- Best way to find and define a problem.
+- All the decisions are taken with insights that have gathered over a period of time
+- Subject matter experts - They are the ones who have the domain knowledge in which the analysts are currently working. Their expirience is unparalled and they can read the data much better than any analyst if it is visualized correctly. 
+- They also are used to get a better understanding of the gray areas so that better decisions can be made.
