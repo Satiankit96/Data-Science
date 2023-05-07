@@ -24,3 +24,10 @@ Importance of data
 - All the decisions are taken with insights that have gathered over a period of time
 - Subject matter experts - They are the ones who have the domain knowledge in which the analysts are currently working. Their expirience is unparalled and they can read the data much better than any analyst if it is visualized correctly. 
 - They also are used to get a better understanding of the gray areas so that better decisions can be made.
+
+Understanding Gut instinct 
+THis could become a big problem beacuase of the inconsistancies and the biases of the past.
+Every new case has new sets of variables with some old repeated one. The old ones might paint a picture which could potray it as they same probblem.
+However if we follow the data, if available we will always avoid this pitfall.
+
+However it is important to note that we are sometimes short on data, time and resources. In these cases it is suited for an individual to follow the gut and blend it with data as we move forward with the projects.
