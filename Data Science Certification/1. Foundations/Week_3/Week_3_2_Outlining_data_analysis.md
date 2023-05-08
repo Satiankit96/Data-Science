@@ -29,5 +29,5 @@ Stakeholders - People who have invested time and resources in a problem and want
 6. Act 
 - All of the insights and put them to work
 
-Examples of data process 
+Quiz - 100/100
 
