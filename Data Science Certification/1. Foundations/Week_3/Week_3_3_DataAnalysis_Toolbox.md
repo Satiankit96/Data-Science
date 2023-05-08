@@ -48,3 +48,4 @@ As mentioned above we can store data in a DB but in order to check for visualisa
     - Destroy
 
 Practice Quiz 3 - 80/100
+Final quiz - 88/100

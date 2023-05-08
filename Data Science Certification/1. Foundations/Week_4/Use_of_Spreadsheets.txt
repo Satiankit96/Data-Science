@@ -1,0 +1,9 @@
+Recently I have come in my final semester and need a job. I have kept a record of the entire job hunt on Excel. I have used multiple attributes such as date applied, referrals, Company name, status of application and the link to check the update on my application. 
+This has been extremely useful for me as I have increased the number of calls and worked harder on my Resume depending upon the data available to me on the spreadsheet. 
+
+Graph attached 
+How did you use a spreadsheet to help prepare your data? 
+1. I used the data about the amount of sleep I have had over the period of 10 days. After that I had traced the same over this graph and added a few visualizations of my own.
+
+How did you format your chart to help you analyze your data? 
+2. Late I created a trend line that showed the average amount of sleep that I have had over the period of 11 days. I also made the graph 3d and changed a few colors in the visualisation depending upon the hours hours I had slept that day.
