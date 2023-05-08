@@ -22,8 +22,6 @@ This is how they communicate there insights with others.
 They depend upon the data. 
 Tableu is one of the best examples 
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
+Spreadsheets | Software applications | Structure data in a row and column format | Organize information in cells | Provide access to a limited amount of data | Manual data entry | Generally one user at a time | Controlled by the user
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
-
-
+Databases  | Data stores - accessed using a query language (e.g. SQL) | Structure data using rules and relationships | Organize information in complex collections | Provide access to huge amounts of data | Strict and consistent data entry | Multiple users | Controlled by a database management system
