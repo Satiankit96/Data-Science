@@ -21,3 +21,5 @@ Missing Information - What information is missing out when a model was created. 
 
 Quiz 2 - 87.5/100
 Incorrect question - Graphs, maps, and charts are used in data visualization.(Answer)
+
+Week 2 Quiz - 100/100

@@ -20,3 +20,6 @@ Drawback - I think that the data is insufficient. There were no individual contr
 Stage 2 - Understanding what a good manager is ?
 Used surveys with employees and shared the results with the managers.
 Conclusions - Key areas were identified where a personal can improve.
+
+Quiz 3 - 100/100
+Weekly Quiz
