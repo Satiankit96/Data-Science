@@ -7,3 +7,7 @@ How did you use a spreadsheet to help prepare your data?
 
 How did you format your chart to help you analyze your data? 
 2. Late I created a trend line that showed the average amount of sleep that I have had over the period of 11 days. I also made the graph 3d and changed a few colors in the visualisation depending upon the hours hours I had slept that day.
+
+Important links
+Google cheatsheet - https://support.google.com/a/users/answer/9300022
+Microsoft Excel help - https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb

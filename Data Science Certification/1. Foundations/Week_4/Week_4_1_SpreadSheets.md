@@ -12,3 +12,5 @@ CLick Ok
 Formulas 
 Cell refernce to calculate some values 
 All formulas begin with = 
+
+Spreadsheet quiz grade 100/100
