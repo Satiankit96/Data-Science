@@ -26,6 +26,25 @@ Spreadsheets | Software applications | Structure data in a row and column format
 --- | --- | --- | --- |--- |--- |--- |--- 
 Databases  | Data stores - accessed using a query language (e.g. SQL) | Structure data using rules and relationships | Organize information in complex collections | Provide access to huge amounts of data | Strict and consistent data entry | Multiple users | Controlled by a database management system
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 287 | 272 | 276 | 269
+
+We need to be choosing the best tool for a given Job.
+As mentioned above we can store data in a DB but in order to check for visualisations. we can download and save it to a spreadsheet.
+
+
+- Data Analysis Process:
+    - Ask
+    - Prepare
+    - Process
+    - Analyze
+    - Share
+    - Act
+
+- Data Life Cycle:
+    - Plan
+    - Capture
+    - Manage
+    - Analyze
+    - Archive
+    - Destroy
+
+Practice Quiz 3 - 80/100
