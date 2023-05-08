@@ -18,3 +18,6 @@ Core analytical skills
 Root cause analysis - Pin point the cause of problem. (Ask why 5 times)(With which why you go a layer deeper)
 Gap analysis - How are we currently working as to our desired ways in the future
 Missing Information - What information is missing out when a model was created. (Was there any key aspect that was missing)
+
+Quiz 2 - 87.5/100
+Incorrect question - Graphs, maps, and charts are used in data visualization.(Answer)
