@@ -1,0 +1,15 @@
+Q1. How could it use data to improve customer experience?
+Q2. What kinds of data would it need to collect? 
+Q3. How could insights from that data solve a problem?
+
+Problem - Amazon Package Stolen 
+1. If they have some DB that shows them about this problem they would find out some insights about the money that the business is loosing because of something as trivial as this.
+2. Amazon could maintain a DB about the areas where these robberies have been reported the most. Apart from that it would also help to keep a record of all the customers who have reported multiple robberies in the future.
+3. They can check the videos from that areas and report to the authorities. They should stop doorway dropoffs in such areas and ask their employees to deliver the products. And finally they should mark the customers that have falsely reported the item been stolen.
+
+Case 1 
+In the first case they could have acted and collected the data again after a period of 6 months. They need to see with a unbiased data and see if the performance of the company has improved or not. If yes, was there a relation between that and the new female contingent that was added to the company. Also there should be an equality of opportunity not the equality of outcome.
+
+Case 2 
+They could use some learning after some time and make it better. After that they can ask some other people from that area to make sure that the data is accurate. Apart from that what is the number of people that have cardiac diseases because of eating habits or hereditary. Also they can revisit the data in some time after they have acted to check if the data has resolved the issue or needs some more work that was missing initially and that can be resolved now.
+
