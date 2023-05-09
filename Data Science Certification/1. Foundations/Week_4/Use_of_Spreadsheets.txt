@@ -11,3 +11,9 @@ How did you format your chart to help you analyze your data?
 Important links
 Google cheatsheet - https://support.google.com/a/users/answer/9300022
 Microsoft Excel help - https://support.microsoft.com/en-us/office/excel-video-training-9bc05390-e94c-46af-a5b3-d7c22f6990bb
+Postgre SQL - https://towardsdatascience.com/sql-cheat-sheet-776f8e3189fa
+
+USe of Visualisations
+These days I am trying to improve my pace while I am running. I am adding a km Every week in two intervals. Apart from that in the remaining 3 days I am trying to increase my pace on every one lap circuit. I am using a bar graph that shows the relation between the time and the distance how I have run. I add some visualizations like a trend line to show an average increase or decrease in my daily efforts. Apart from that I am using colors to show improvements from everyday to the days I am maintaining my performance.
+
+I had a pretty good understanding as it was part of my school projects. I have a working knowledge of Tableu and plan to expand on it a little bit. i have worked with R as well so this course will be a good refresher.
