@@ -1,0 +1,30 @@
+1. Based on the SMART framework, which questions are most important to ask? 
+Specific -  Add as much context as you can 
+Measurable - Talk in numbers to have something concrete 
+Action-oriented - Does the question influence creation of different or new feature packages?
+Relevant - Give context and be specific 
+Time-bound - Give a time period that should be studied
+
+2. How will these questions clarify the requirements and goals for the project?
+They will give a very action oriented plan so that we can know exactly what needs to be achieved in the next steps of the project.
+
+3. How does asking detailed, specific questions benefit you when planning for a project? Can vague or unclear questions harm a project?
+They provide us with an accurate data which is of the utmost information in order to make a decision. 
+Apart from that they are time bound and consider the exact time which we need to resolve in our original statement. 
+
+
+1. What SMART questions did you ask? How did these questions tie into the field of the person you chatted with? 
+I took a course in Data visualizations with one of the professor at my university. 
+What are the new developments and tools that have been released after 2019 that can be learned in order to get a better handle on the subject. 
+She was very thrilled and gave me some really helpful insights which led me here and also helped me through my course.
+
+2. What insights did you discover during your conversation? 
+She was more than happy to answer my question. 
+It lead to another question being "Are there some tools that we can learn apart from the new ones that are considered as company standards for 
+most of the companies that work in that domain ?". She gave me an extra project where I had a word with her fellow working at MU sigma and gave 
+me a better understanding of the question I posed.
+
+3. How did the SMART framework help you arrive at your conclusions?
+My questions were time bound and had a lot of context. 
+They lead to a quick action where I got the name of the tools that would help me in my curriculum but also something that I can learn and apply 
+in the field. 
