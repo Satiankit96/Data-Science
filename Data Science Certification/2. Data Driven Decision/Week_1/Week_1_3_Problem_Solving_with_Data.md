@@ -29,3 +29,6 @@ Relevant - Give context and be specific
 Time-bound - Give a time period that should be studied 
 
 Fairness - Make sure that you do not create a bias or lead an argument to a certain place.
+
+Week 1 
+Final Quiz - 100/100

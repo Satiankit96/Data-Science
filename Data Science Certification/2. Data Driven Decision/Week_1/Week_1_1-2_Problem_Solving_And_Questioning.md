@@ -7,7 +7,7 @@ This course will help us in the initial steps such as defining a problem and ask
 5. Completing the Course Challenge
 
 Structured thinking 
-This is the process of recognising the current problem. Accessing gaps, organising available information, revealing gaps and identifyting current options.
+Structured thinking is the process of recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying the options.
 
 Gaming Example 
 1. Figure out the target audience 
