@@ -1,9 +1,10 @@
 When to wake up - Data collected from Sleep Apps. Any alarm clock or a daily diary to keep a tracj  
-
 Whether to go out to eat - A calorie app. How much you can spend, How much tired you are. 
-
 What to spend money on -TIme of week, money in the bank, Use case of the thing 
-
 What to listen to on the radio - What is the mood, Whats the best station, Which station plays my kind of music 
-
 Who to call on the phone - What is the issue, How much time do I have, who is the best resource
+
+
+
+Asking SMART questions about real life data sources.
+- Attached 

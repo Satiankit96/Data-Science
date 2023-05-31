@@ -31,3 +31,19 @@ When they resolved the problem of orders during the pandemic using the data.
 
 Key takeaway
 - We noticed how making decisions on incomplete data could create an issue. 
+
+_______________________________________________________________________________________________________________________________________________________________________
+
+Quantitative Data (What) - Specific and objective measure of quantitative facts.
+- Surveys 
+- Polls
+- Structured Interviews
+  
+QUalitative (Why) - Things that cannot be solved by numbers. The subjective measure of things. Use Charts and Graphs.
+- Focus Groups 
+- Social media text analysis 
+- In- Person interviews
+
+Conclusion - The Qualitative data add context to the Quantitative data. To increase the profit margins with data we need both. 
+
+Quiz - 100/100
