@@ -8,3 +8,25 @@ Who to call on the phone - What is the issue, How much time do I have, who is th
 
 Asking SMART questions about real life data sources.
 - Attached 
+
+3. Dashboards 
+a. 
+Consider the different types of dashboards: 
+How are the different types of dashboards similar to each other?
+In what ways do they differ?
+Similar 
+1. They all show the story that the data tells 
+2. They all operate on a given period in time. 
+3. They all have visualizations to tell the story better 
+Differences 
+1. The amount of time period is different 
+2. Who can understand what needs to be acknowledged before we build a dashboards 
+3. Each one of them is designed to meet a specific goal. 
+
+b.
+The company needs top incorporate a few live streams to get the most out of the data. Apart from that they need to work on the data structure of the dashboard. We also need to think about the specific problem that needs to be answered. 
+They can look at the trends in the real time. They can lean on KPI's and understand the impact of some changes and look at the specifics of the data.
+The industries that depend the most on the live trends such as twitter, fakebook, Netflix , etc. Apart from that the companies that are in transition would get the most out of dashboards as they can monitor live changes.
+
+c. 
+The operational dashboards would have been the best option to get this one done. It was a short term project that needed constant monitoring. To add to that there were some regular changes that were being made and had to be monitored for the impact.
