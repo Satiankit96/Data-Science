@@ -7,3 +7,12 @@ Quiz - 100
 
 Quiz- 100
 Week 3 Quiz = 100
+
+
+1. Took my time to define the problem statement. After that collected all the required data and cleaned and sorted according to what was needed.
+2. Most of the questions were rounded around the data sets.
+Can we follow a devops methodology?
+How much data is need to begin?
+How far in the future can we predict. 
+In order to improve the accuracy, how much more data do we need to feed.
+Can we make a price model in oprder to maximise the profits.
