@@ -1,0 +1,5 @@
+1. ASk questions in order to understand the issue and try not to repeat it.
+2. Have a SME in the conversation as they would be able to better guide us in the state of a deadlock.
+3. Initially what I was introduced to scrutiny, I made the mistake of taking it personally. Later I rectified my mistakes and figured out the best people that you can reach out to whenever you are stuck.
+
+

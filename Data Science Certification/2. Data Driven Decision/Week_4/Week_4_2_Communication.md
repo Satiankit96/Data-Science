@@ -19,3 +19,6 @@ Speed Vs Accuracy
 Take some more time for smaller and unimportant project to get more.
 For critical ones, balance speed and accuracy.
 
+Quiz - 95
+
+
