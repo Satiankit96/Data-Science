@@ -1,3 +1,9 @@
 To analyze and work with small data sets.
 It can be specific for certain members in the team whose inputs are appreciated in those places. It can also indicate to the rest of the team as to who has looked over what part of the project.
 Quiz - 100
+
+1.  It tells us about all the data that we needed to know in a matter of seconds. This saves time and resources. Apart from that we can use a different sorting technique depending upon the task that awaits us. 
+2. It is a good way to summaries whatever we have learned from the raw data. Apart from that it can be edited as per the values that were important for us. We can also use more visualizations if the task requires.
+
+Quiz- 100
+Week 3 Quiz = 100
