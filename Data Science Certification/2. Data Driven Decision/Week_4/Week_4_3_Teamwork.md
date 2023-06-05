@@ -8,5 +8,4 @@ Conflict to collaboration
 - Mismatch expectations 
 - Work styles 
 
-
-Quiz - 
+Part 3 Quiz - 100
