@@ -13,3 +13,7 @@ Part 3  - Data Structures
 - I noticed the categoeries of RIvers, Sink and Saws. Yes, Most of the pictures have a very consistent theme depending upon the categories we chose. 
 - It would be really difficult. But the best option is to take a small sample that has 10 -15 images and try to gfigure out what they are and the taking a few more samples to compare the results.
 
+Part 4 -  
+They are structured and will only except structured data.
+WIll help us do more complex task if we have the funcdamentals of sums and averages.  Also the basic knowledge of excel is very important for an analyst.
+Quiz 1 - 100 
