@@ -17,3 +17,11 @@ Part 4 -
 They are structured and will only except structured data.
 WIll help us do more complex task if we have the funcdamentals of sums and averages.  Also the basic knowledge of excel is very important for an analyst.
 Quiz 1 - 100 
+
+Part 4 - Kaggle 
+- This is a study done by a researcher on some penguin species in antarctica. They have marked them all uniquely and will be monitoring there hobbies for some time. They have detailed report about every field across two tables.
+
+- This creates a great community where people from different communities can come and share there work on there indivisual Datasets. 
+APart from that people can learn a thing or two about the there own discipline. 
+
+Quiz - 88
