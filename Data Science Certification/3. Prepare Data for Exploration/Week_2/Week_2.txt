@@ -1,17 +1,16 @@
+Week2 
 Bias is mostly happens on a sub conscious level these days. We do not know it but we always try to bend things in the way that we want to perceive them. 
 Apart from that we see them in all facets of life from a dinner table to a conference table. Luckily while collecting the data it is important and easy 
 to circumvent this. 
 
-
-
-
-
-
-
-
-
+Kaggle
+Kaggle would naturally have both types of data sets. However with the amount of votes and credibility we can see if we want to use that data source or not.
+We can pick a topic that interests us, later we can download more and more resources about that topic and complete our own analysis on that topic. 
 
 
 Quiz 1 - 100
 Quiz 2 - 100
 Quiz 3 - 100
+Quiz 4 - 100
+
+Week 2 Quiz - 96.87
