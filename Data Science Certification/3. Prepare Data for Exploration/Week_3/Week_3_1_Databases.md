@@ -3,9 +3,11 @@ Meta Data - The data within the data. Data about the data. This is a refference 
 
 Database features
 
-RElational Database - A series of related tables connected via their relationships.
+Relational Database - A series of related tables connected via their relationships.
 - One or more of the same fields must be there in both tables.
 
+Normalisation 
+- This is the way of sorting the data in a relational database.
 1. Primary Key 
 - This is a unique value which cannot be repeated in any of the rows and cannot be blank.
 - They should exist in almost every table in order to make the job easier. 
