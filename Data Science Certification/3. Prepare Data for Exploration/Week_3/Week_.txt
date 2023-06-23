@@ -3,3 +3,15 @@ Week_3_1 - 100
 Week_3_2 - 100
 Week_3_3 - 100
 Week_3_4 - 100
+
+Cleaning makes sure that all the formulaes that will be applied to the table with work without fail.
+If there are any functions, visualisations or inter DB connectivity is needed then in that case there shall be no null values. 
+
+Sorting and filtering helps us in locating this data. Apart from that it makes the other tasks that follow much more easier as we know what we are looking for.
+
+
+Part 2 
+Spreadsheets is the mini me version of Databases. Database are elaborate as they consists of multiple tables that may or may not be linked to each other. 
+Sorting and filtering is much more easier in spreadsheets as compared to a DB due to the sheer size of the same. DB are much more powerful than a spreadsheet.
+
+DB's are a bit more tougher to comprehend as there is a lot still to unpack. A DB needs a language like SQL so some challenges are still awaiting us. 
