@@ -11,3 +11,45 @@ TUtorial
 3. While choosing a DB we can check in some of the tables to see if it is of any use or not. 
 - SELECT *  FROM `bigquery-public-data.sunroof_solar.solar_potential_by_postal_code` LIMIT 1000
 - bigquery-public-data - This is the name of the database and whatever follows after the dot is the name of the table. 
+
+Query Examples 
+
+SELECT *
+FROM `city_data.Cities`
+WHERE avg_temp between 45 and 65
+  AND avg_commute < 60
+
+  Challenge 1 
+
+SELECT *
+  -- COUNT(*) as num_of_Trips
+FROM bigquery-public-data.london_bicycles.cycle_hire
+WHERE duration >=1200;
+
+1. 42
+2. 21014
+3. 487
+4. Park Lane , Hyde Park
+5. Total results -  5987982 
+
+SELECT DISTINCT bike_id
+FROM bigquery-public-data.london_bicycles.cycle_hire
+WHERE duration > 2400
+
+Distint Values - 31637
+
+Question 2 
+East Village, Queen Elizabeth Olympic Park
+
+
+Top 5 baby names for boys 
+SELECT 
+  name,
+  count
+From babynames.names_2014
+WHERE 
+  gender= 'M'
+ORDER BY
+  count DESC
+LIMIT
+  5

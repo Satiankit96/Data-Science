@@ -15,3 +15,8 @@ Spreadsheets is the mini me version of Databases. Database are elaborate as they
 Sorting and filtering is much more easier in spreadsheets as compared to a DB due to the sheer size of the same. DB are much more powerful than a spreadsheet.
 
 DB's are a bit more tougher to comprehend as there is a lot still to unpack. A DB needs a language like SQL so some challenges are still awaiting us. 
+
+Part 4
+
+They give an large array of data sets that we can use in almost any field. Ever data set we survey makes us slightly better.
+Coupled with the knowledge of Python. Writing queries can have an massive impact as we can do all by oursleves. 
