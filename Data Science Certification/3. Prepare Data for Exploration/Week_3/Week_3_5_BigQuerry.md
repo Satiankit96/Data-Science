@@ -41,7 +41,7 @@ Distint Values - 31637
 Question 2 
 East Village, Queen Elizabeth Olympic Park
 
-
+QUestion 3 
 Top 5 baby names for boys 
 SELECT 
   name,
@@ -53,3 +53,5 @@ ORDER BY
   count DESC
 LIMIT
   5
+
+Review the SQL documentations 
