@@ -10,3 +10,5 @@ Volume | Variety | Velocity | Veracity
 The amount of data | The different kinds of data | How fast the data can be processed | The quality and reliability of the data
 
 Quiz - 100
+
+SQL Best Practices.
