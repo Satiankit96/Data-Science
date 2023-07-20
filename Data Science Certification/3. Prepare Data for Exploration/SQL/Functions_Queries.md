@@ -56,7 +56,7 @@ FROM Employee
 WHERE birth_date  LIKE '____-10%'
 
 __________________________________________________________________________________________________________________
-Unions -
+Unions - USED TO COMBINE 2 or more SELECT statements 
 They should have the same data types 
 Same number of columns can be imported at a time 
 
@@ -68,3 +68,42 @@ FROM Branch
 UNION
 SELECT client_name 
 FROM client;
+
+SELECT SUM(salary) AS total_Loss
+FROM employee 
+Union 
+SELECT SUM(total_sales) AS total_Gained
+FROM Works_With 
+
+__________________________________________________________________________________________________________________
+JOIN 
+Combining results from 2 tables 
+
+SELECT employee.emp_id,employee.first_name,Branch.branch_name
+FROM Employee
+JOIN Branch
+ON Employee.emp_id = Branch.mgr_id;
+
+
+LEFT JOIN 
+ALl the values from the left table would be included 
+
+RIGHT JOIN 
+
+ALL The numbers from the right side would be joined 
+
+Full outer Join 
+ALL of the values from both the tables are included 
+
+__________________________________________________________________________________________________________________
+
+NESTED QUERIES 
+
+
+SELECT Employee.first_name, Employee.last_name
+FROM EMployee 
+WHERE EMployee.emp_id IN (
+    SELECT Works_with.emp_id
+    FROM Works_with 
+    WHERE Works_with.total_sales > 30000
+);

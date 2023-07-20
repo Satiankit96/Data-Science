@@ -15,7 +15,7 @@ CREATE TABLE Branch (
     mgr_id INT,
     mgr_start_date DATE,
     PRIMARY KEY (branch_id),
-    FOREIGN KEY (mgr_id) REFERENCES Employee(emp_id) ON DELETE SET NULL
+    FOREIGN KEY (mgr_id) REFERENCES Employee(emp_id) ON DELETE SET NULL - use this when the operation is not being done on an primary key 
 );
 
 ALTER TABLE Employee 
