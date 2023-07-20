@@ -55,3 +55,17 @@ LIMIT
   5
 
 Review the SQL documentations 
+1. Use of ' ' vs " "
+We use "" when there is an ' in the string itslef. (Same as any programming language).
+
+2. Comments : Use -- or #
+   For multiline comments use : /* 
+
+   */
+
+3. Snake_case - Same naming convention of a new column as we have used in creating folders for these files.
+   CamelCase - This is another naming convention WhereEveryNewWordStartsWithCapital. It is better to use the snake_case. 
+   SUM (tickets)                              - f0 (Default name for an column)
+   SUM (tickets) AS total_tickets             - Here the new added column would be named as total_Tickets.
+
+Note - It is always a good idea to create column headers when working in excel using snake_case. 
