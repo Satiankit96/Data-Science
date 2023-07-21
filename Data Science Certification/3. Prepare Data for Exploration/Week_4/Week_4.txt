@@ -1,0 +1,10 @@
+1. 
+Why are file structure and naming conventions so important? What are the consequences of poor organization for data analysts at work? 
+When we are working in a team, it is important for everyone to be on the same page. Apart from being good for the analysis front, er have a much better direction of the dat and things that we have to do in order to achieve the goal. 
+How would you structure folders and files? What naming conventions would you use?
+Generally in an hierarchical order so that we have an idea of who does what. Apart from that we can sort the data with dates as well as regions.
+
+What appeals to you about these choices?
+This is much better in the future. Once we can get everything done we can still keep the data on hand and use it for next projects. 
+
+Test - 100/100
