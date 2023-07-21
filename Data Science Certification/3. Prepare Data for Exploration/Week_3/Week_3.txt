@@ -20,3 +20,6 @@ Part 4
 
 They give an large array of data sets that we can use in almost any field. Ever data set we survey makes us slightly better.
 Coupled with the knowledge of Python. Writing queries can have an massive impact as we can do all by oursleves. 
+
+
+Week 4 - 100 

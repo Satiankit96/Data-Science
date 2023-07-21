@@ -71,4 +71,67 @@ COUNT
     It is not a good practice. Can we resolved by using the WITH clause. 
 
 14. WHERE vs HAVING 
-    WHERE can be used with the 
+    HAVING can be used with Aggregated objects. (GROUP BY) 
+
+15. Indexes USed in a column 
+    Basically, Index creates a pointer to each value in the column which in turn helps in finding any specific value from this column in a much faster way.     
+    Please note, different indexes have different functionalities and will behave differently from each other but in a nutshell index is used to identify any value faster from the table column(s).
+
+16. What are steps you would take to tune a SQL query?
+- Check the SQL Query. 
+  - Avoid any repeated subqueries by using a WITH clause. 
+  - Make sure all the table joins are correct and all the filter conditions are applied as intended. 
+
+- Check if index is created for the desired columns.
+  - Make sure correct indexes are created on the desired columns. Following the correct type of indexes.
+  - Avoid creating unnecessary indexes. 
+
+17. Primary key - Unique values without any null values 
+    Unique key - Unique values that can have null values 
+    Foreign key -USed to create links within tables. Primary key in some other table. 
+
+18. What is the difference between a view and a synonym?
+    - View - This is like giving name to a returned SQL Querry 
+    - Synonym - Synonym on the other hand is just an alias or an alternate name that you can provide to any database objects such as tables, views, sequences, procedures etc.  
+    - A view looks and acts just like a real table, but is always created on-the-fly as required, so it is always up to date. A synonym is an alias for a table.
+
+
+19. When can a function NOT be called from SELECT query?
+
+
+    - If the function includes DML operations like INSERT, UPDATE, DELETE etc then it cannot be called from a SELECT query. Because SELECT statement cannot change the state of the database.
+
+20. What is a trigger?
+
+    Trigger is a database object which is similar to a stored procedure which will automatically get invoked or executed when the specified event occurs in the database.
+
+21. Materialized views vs Views 
+    Similar to views, materialized views are also database objects which are formed based on a SQL Query however unlike views, the contents or data of the materialized views are periodically refreshed based on its configuration.
+
+
+22. What is MERGE statement?
+
+
+Merge is part of the DML commands in SQL which can be used either perform INSERT or UPDATE based on the data in the respective table.
+
+If the desired data is present then merge will update the records. If desired data is not present then merge will insert the records. 
+
+Sample merge statement is shown below. Here if the managers and directors table have matching records based the ID field then UPDATE command will be run else if there are no matching records then INSERT statement will be executed.
+
+MERGE INTO managers m
+
+  USING directors d  ON (m.id = d.id)
+WHEN MATCHED THEN 
+
+	  UPDATE SET name = 'TEST' 
+WHEN NOT MATCHED THEN 
+
+	  INSERT VALUES (d.id, d.name, 0);
+
+23. Yesterdays Date 
+    SELECT DATE_SUB(SYSDATE(), INTERVAL 1 DAY) as previous_day; 
+    mysql> SELECT DATE_ADD(SYSDATE(), INTERVAL 1 DAY)
+
+24. Function vs Procedure 
+    Function should always return a value whereas for a procedure it’s not mandatory to return a value.
+
