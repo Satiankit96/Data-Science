@@ -30,3 +30,22 @@ Reasons for the loss of integrity.
   
 4. Other factors - Human error, Hacking, Viruses, Malware and System failures. 
 
+Data Constraints  - https://www.coursera.org/learn/process-data/supplement/uWR9E/more-about-data-integrity-and-compliance
+
+
+___________________________________________________________________________________________________________________________________________________________
+
+Primary Goal 
+Align business objective + Clean Data 
+
+VLOOKUP - 
+=VLOOKUP(search_key, range, index, [is_sorted])
+Search key - Column index 
+Range - Range of the colums 
+Index - Of the column that will return the value of the range
+is_Sorted - False - for exact matches 
+True for estimate matches
+
+Alignment to business objective + newly discovered variables + constraints = accurate conclusions
+
+newly discovered variables + constraints - If we ever feel that the data is not complete align with the business needs. We can add a few more contraints for more accurate results. (Just a way to complete the data)
