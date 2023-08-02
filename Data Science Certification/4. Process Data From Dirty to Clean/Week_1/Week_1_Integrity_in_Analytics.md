@@ -48,4 +48,6 @@ True for estimate matches
 
 Alignment to business objective + newly discovered variables + constraints = accurate conclusions
 
-newly discovered variables + constraints - If we ever feel that the data is not complete align with the business needs. We can add a few more contraints for more accurate results. (Just a way to complete the data)
+newly discovered variables + constraints - If we ever feel that the data is not complete align with the business needs. We can add a few more contraints for more accurate results. (Just a way to complete the data).
+
+___________________________________________________________________________________________________________________________________________________________
