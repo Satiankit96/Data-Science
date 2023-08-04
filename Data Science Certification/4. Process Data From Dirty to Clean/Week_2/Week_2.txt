@@ -1,2 +1,8 @@
 Test 1 - 100
-Test 2 - 
+Test 2 - 100
+
+Test 3 - 100
+Question 
+Transpose. Imissed the step to copy the data 
+To Increase the width and make the data more readable. It also depends on what we want to see 
+Center align and do not transpose 
