@@ -1,1 +1,8 @@
 Test 1 - 100 
+Test 2 - 100
+
+These steps are required so that we can reach our objective and avoid anything that could hamper it. We aim to  take out the null values the duplicates or the values that are caused by human errors. 
+
+We have have a completely bauched investigation. The data that we have taken might not mean a thing. 
+
+Test 3 - 100 
