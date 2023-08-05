@@ -3,16 +3,18 @@ Cleaning data in spreadsheets
 2. Remove duplicate - Data > Data cleanup > RM duplicate 
 3. date - select column - formatting - Number - date 
 4. Split - select column - data - split (This can also resolve errors between numbers and text)
-
+    SPLIT(F2, "-")
 Deliminitor - ENd of the data column 
 5. =COUNTIF(B2:B71, "!=6")
 6. =LEN(A71)
 7. =Left(A2,5) (5 from left)
+   =LEFT(F1, FIND("-", F1) - 1)- Separating with an Sympbol
+
 8. =Right(A2,4)
-9. =MID(Column Name, Starting letter, number of middle elements)
+9.  =MID(Column Name, Starting letter, number of middle elements)
 =MID(D2,4,2)
-10. =CONCATENATE(H2," ",I2)//Better Practice 
-11. TRIM (LTRIM,RTRIM)
+1.  =CONCATENATE(H2," ",I2)//Better Practice 
+2.  TRIM (LTRIM,RTRIM)
 
 _________________________________________________________________________________________
 Workflow automation 
@@ -40,3 +42,13 @@ ________________________________________________________________________________
 More Data Cleaning 
 Data Mapping - How the data is moved within an organisation. This helps us with many aspects and what needs to be moved. 
 Schema - The way of describing how something is organized 
+
+Step 1: Create your checklist 
+
+Size of the data set
+Number of categories or labels
+Missing data
+Unformatted data
+The different data types
+
+Step 2: List your preferred cleaning methods 

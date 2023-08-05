@@ -6,3 +6,8 @@ Question
 Transpose. Imissed the step to copy the data 
 To Increase the width and make the data more readable. It also depends on what we want to see 
 Center align and do not transpose 
+
+Test 4 = 100
+Test 5 = 100
+
+Final Weeek 2 = 100
