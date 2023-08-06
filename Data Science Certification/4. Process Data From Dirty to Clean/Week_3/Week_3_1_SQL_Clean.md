@@ -1,1 +1,1 @@
-SQL - USed for Cleaning bigger datasets 
+SQL - USed for performing CRUD on bigger data sets 
