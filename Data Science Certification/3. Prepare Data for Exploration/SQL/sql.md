@@ -43,7 +43,7 @@ SQL Basics
 
 3. OPerations 
    Note - We need to click the part of the wuery that we want to run. if we delete a table then we have to click the part where we created and it and run it again. 
-
+_______________________________________________________________________________________
 -- CREATING A TABLE 
 
 CREATE TABLE student (
@@ -60,12 +60,22 @@ ALTER TABLE student ADD gpa DECIMAL(3,2);
 ALTER TABLE student DROP COLUMN gpa;
 
 -- ADDING CONSTRAINTS 
+    Student_id INT,
     Name VARCHAR (20) NOT NULL, - Value cannot be null 
     Major VARCHAR (20) UNIQUE, - Element should be unique 
-    Major VARCHAR (20) DEFAULT 'Undecided', - Gives an default entry 
-
+    Major VARCHAR (20) DEFAULT 'Undecided', - Gives an default entry //
+    PRIMARY KEY (Student_id)
+);
     student_id INT AUTO_INCREMENT, - Data will be auto iuncremented 
 
+
+_______________________________________________________________________________________
+Adding to a Table 
+INSERT INTO student(Name,Major) VALUES('Jack', 'Biology');
+INSERT INTO student(Name,Major) VALUES('Kate', 'Sociology');
+
+
+_______________________________________________________________________________________
 UPDATING IN A TABLE 
 
 UPDATE student
@@ -89,7 +99,7 @@ WHERE student_id = 1;
 
 _________________________________________________________________________________________________________________________________________________________
 Getting Information from the Database. 
-
+- Some simple operations
 SELECT - This tells us about the column that we need
 
 OPerators 
@@ -101,4 +111,12 @@ WHERE Name IN ('Kate','Jack', 'KATY')
 ORDER BY major, student_id DESC
 LIMIT 5;
 
+SELECT student.name, student.major 
+FROM Student
+ORDER BY major,student_id;
 
+SELECT * 
+FROM Student
+WHERE major = 'biochemistry'
+ORDER BY major,student_id
+;
