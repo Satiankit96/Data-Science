@@ -13,6 +13,10 @@ SELECT country, customer_id
 FROM `customer_data.customer_address`
 WHERE LENGTH(country) > 2
 
+IMPORTANT____
+LENGTH(RIGHT(string, length))
+
+
 2. SUBSTRING 
    SUBSTRING(string, start, length)
 
