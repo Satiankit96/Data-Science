@@ -32,3 +32,5 @@ CONCAT_WS (‘ . ’, ‘www’, ‘google’, ‘com’)
 CONCAT with +
 Adds two or more strings together using the + operator
 ‘Google’ + ‘.com’
+
+GETTING HELP IF STUCK

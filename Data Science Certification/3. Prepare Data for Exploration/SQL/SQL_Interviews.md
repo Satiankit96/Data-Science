@@ -135,3 +135,5 @@ WHEN NOT MATCHED THEN
 24. Function vs Procedure 
     Function should always return a value whereas for a procedure it’s not mandatory to return a value.
 
+25. Google sheets formula -https://blog.golayer.io/google-sheets/google-sheets-formulas
+26. Tips - https://www.benlcollins.com/spreadsheets/google-sheets-formulas-techniques
