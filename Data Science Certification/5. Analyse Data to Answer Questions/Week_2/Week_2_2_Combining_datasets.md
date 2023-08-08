@@ -15,6 +15,7 @@ Cliff notes
 - Group by is needed when there are multiple functions in SELECT clause. Then we have to group them by 
 - And order type is a mus
 - For some reason as in line 3 would not execute if written as "AS"
+- In SQL, when you use multiple aggregate functions (such as SUM, COUNT, AVG, MAX, MIN) in the SELECT statement, it is generally mandatory to use the GROUP BY clause. 
 
 
 Functions used in spread sheets 
