@@ -44,12 +44,7 @@ ORDER BY average_value DESC
 
 
 SELECT
- seasons.market AS university,
- seasons.name AS team_name,
- seasons.wins,
- seasons.losses,
- seasons.ties,
- mascots.mascot AS team_mascot
+ seasons+mascot
 FROM
  `bigquery-public-data.ncaa_basketball.mbb_historical_teams_seasons` AS seasons
 LEFT JOIN

@@ -5,10 +5,18 @@ A SET command can’t have a nested subquery because it is used with UPDATE to a
 
 1. Subquery nested in Select
 SELECT product_name, 
-       (SELECT SUM(quantity) FROM orders WHERE orders.product_id = products.product_id) AS total_quantity
+       (SELECT SUM(quantity) 
+       FROM orders 
+       WHERE orders.product_id = products.product_id) AS total_quantity
 FROM products;
 
-2. Subquery nested in FROM
+SELECT product_name,SUM(order.quantity)
+FROM orders
+JOIN products
+ON orders.product_id = products.product_id
+GROUP BY product.product_name
+
+1. Subquery nested in FROM
 SELECT
   id,
   name,
@@ -29,7 +37,7 @@ FROM
   ORDER BY
     number_of_rides DESC
 
-3. Subquery nested in WHERE
+1. Subquery nested in WHERE
 SELECT Employee.first_name, Employee.last_name
 FROM EMployee 
 WHERE EMployee.emp_id IN (
