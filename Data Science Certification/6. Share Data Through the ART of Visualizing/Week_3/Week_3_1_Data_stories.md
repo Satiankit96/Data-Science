@@ -9,7 +9,7 @@ Think about a key message. Short precise and clear.
 Spotlighting 
 
 Presentation 
-Characters - The players involved
+Characters - People affected by the story
 Settings - Current issues 
 Plot - The complications
 Big reveal - More fussing over data 
