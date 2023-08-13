@@ -1,4 +1,4 @@
-Dashboard - a tool that organizes information, typically from multiple data sets, into one central location for tracking, analysis, and simple visualization through charts, graphs, and maps. And just like filters and spreadsheets and queries.
+
 
 3 Steps 
 Audience ENgagement -
@@ -7,3 +7,16 @@ Story Telling - Telling the story with begin middle and an end
 
 Think about a key message. Short precise and clear.
 Spotlighting 
+
+Presentation 
+Characters - The players involved
+Settings - Current issues 
+Plot - The complications
+Big reveal - More fussing over data 
+Aha moment - When the recommendation is shared
+
+Not too many details on a slide 
+Not too worded 
+Good visuals 
+Clearly labeled elements 
+Visuals should reveal the big aha moments 
