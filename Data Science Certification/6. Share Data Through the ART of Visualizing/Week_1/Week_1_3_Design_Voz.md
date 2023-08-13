@@ -29,7 +29,7 @@ Ex - Air BNB - How to increase profits. Impprove the photos
 How to achieve the Design Thinking 
 - Empathize - Emotion and needs of the target audience 
 - Define - Define their needs and the resolution to their problems 
-- Ideate - Start creating examples and drafts. Initially spend a lot of time here 
+- Ideate - Start creating examples and drafts. Initially spend a lot of time here (Ideas)
 - Prototype - Putting charts and dashboards together
 - Test - Test them by showing it to people who know the data, kids and other. Focus on critiques.
 
