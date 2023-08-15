@@ -16,3 +16,10 @@ R - R is a programming language frequently used for statistical analysis, visual
 - The visualisations that are created from using R are on another level 
 
 R studio installations 
+
+Console 
+- Just like a terminal for an OS.
+- We can do loads but its better to use the sourse editor 
+
+Source editor 
+We can write the scripts to make changes over here. 
