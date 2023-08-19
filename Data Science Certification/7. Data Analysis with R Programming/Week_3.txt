@@ -1,3 +1,17 @@
 Test 1 - 100
 Test 2 - 100
 Test 3 - 100
+Test 4 - 100
+Test 5 - 100 
+
+Manually creating dataframes (similar to tables )
+
+id <- c(1:10)
+
+name <- c("John Mendes", "Rob Stewart", "Rachel Abrahamson", "Christy Hickman", "Johnson Harper", "Candace Miller", "Carlson Landy", "Pansy Jordan", "Darius Berry", "Claudia Garcia")
+
+job_title <- c("Professional", "Programmer", "Management", "Clerical", "Developer", "Programmer", "Management", "Clerical", "Developer", "Programmer")
+
+employee <- data.frame(id, name, job_title)
+
+

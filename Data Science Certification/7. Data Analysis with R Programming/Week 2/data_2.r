@@ -1,0 +1,13 @@
+install.packages("ggplot2")
+install.packages("tidyverse")
+library(ggplot2)
+data("diamonds")
+head(diamonds,10)
+colnames(diamonds)
+str(diamonds)
+mutate(diamonds, carat_2=carat*100)
+glimpse(diamonds)
+readr_example() 
+read_csv(readr_example("mtcars.csv"))
+
+earnings_df <- read_csv(quarter_earnings.csv)
