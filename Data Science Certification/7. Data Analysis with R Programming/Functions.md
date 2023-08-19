@@ -23,3 +23,9 @@ Package
 filter -    filtered_tg <- filter(ToothGrowth,dose ==0.5)
 arrange(filtered_tg,len)
 
+2. ggplot2
+   head(diamonds,10) - Initial values  
+   str() - Structure - High level info about the data including the data types 
+   colnames(diamonds) - Column names 
+   mutate(diamonds) - mutate(diamonds, carat_2=carat*100) - New column carat_2 is added 
+   glimpse(diamonds) - All the data and a few initial values in the form of lists 
