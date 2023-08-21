@@ -1,4 +1,10 @@
 Test 1 - 100
 Test 2 - 100
 Test 3 - 100 
-test 4 - 100
+Test 4 - 100
+Test 5 - 100
+Test 6 - 100
+Test 7 - 100
+Test 8 - 100
+Test 9 - 100
+Week 4 Final - 100
