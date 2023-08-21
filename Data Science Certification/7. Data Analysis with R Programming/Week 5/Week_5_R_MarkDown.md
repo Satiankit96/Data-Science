@@ -14,3 +14,9 @@ output: html_document
 
 
 Code Chunks 
+Adding a code chunk 
+```{r cars}
+summary(cars)
+```
+
+- We can omit out the warnings that we get for the ggplot2
