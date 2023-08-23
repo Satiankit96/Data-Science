@@ -7,3 +7,6 @@ Cyclist Study
 * How do annual members and casual riders use Cyclistic bikes differently? 
 * Why would casual riders buy Cyclistic annual memberships?
 * How can Cyclistic use digital media to influence casual riders to become members?
+
+Path chosen 
+WIll complete both 
