@@ -18,8 +18,12 @@ Step - Visualize
 Share it with the stake holders 
 
 
-How to create a good data model 
-Pre concieved notion on the back of expirience 
-Curiosity to reach the use case
-Argumentative to drive the research 
-Gaining industry exposure to figure out a path 
+Data Scientist
+- Subject Matter expertize
+- Curiosity to reach the use case
+- Argumentative to drive the research 
+- Pre concieved notion on the back of expirience 
+ 
+ 
+
+
