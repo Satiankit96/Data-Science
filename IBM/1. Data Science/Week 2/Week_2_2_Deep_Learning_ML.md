@@ -7,3 +7,11 @@ Data science vs AI
 Data science is the process of extraxcting knowledge out of a huge data set. 
 It's an interdisciplinary field involving mathematics, statistical analysis, data visualization, machine learning, and more.
 This encompases the entire data processing methodology. 
+
+Neural networks and deep learning 
+Neural networks - Approach to immitate the human brain. Building complex networks that can be trained.
+They require high compute.
+
+Deep Learning - Multi layered neural networks. Speech recognition and learning. Image recognition. 
+
+Regression Models 
