@@ -1,3 +1,30 @@
 Test 1 - 100
 Test 2 - 100
-Test 3- 100 
+Test 3 - 100 
+
+Peer review - 10/10
+Final quiz -100
+
+Course score - 
+
+1. Data science is what "Data Scientists do".
+A more descriptive definition of data science would be a field of science that combines the knowledge of Statistics, Programming, Math and subject matter expertise to resolve real world problems. The concepts and topics of data science have been there from a long time but 2013 marked the beginning of something special. Companies had a record of close to 7 years of data warehoused and they had started using it to make their products better as described in the course. 
+
+Data Scientist could be defined as an individual who is a subject matter expert in his arena with some of Stats, Programming and Mathematics to resolve the problem statement. This is an interdisciplinary skill, however a data scientist should know some basics abouts the pre-processing, preparation, analysis, visualizations and an eye for outliers.
+
+2. I have worked as an Software engineering lead at Hewlett Packard Enterprises. I am interested in the domain data center architectures. There is a giant demand of data scientist that come from a background of software defended networking and data science. I am currently pursuing a degree in Data science from NYU Courant institute of Mathematical sciences to take care of the second part of that sentence. I would wish to resolve the issues in high performance compute, network overlays and bottleneck issues.
+
+3. 
+The 10 main components that would make an comprehensive report are as follows.
+1. Cover Page - This is generally missing. We should have the title of the report with the authors name on it. If it is an extension of a work, it should cite it.
+2. Executive Summary/Abstract - Small overlay of what follows
+3. Table of index - make it accessible 
+4. Problem Statement
+5. Detailed contents - Focus on answering the problem statement but attention 
+6. Introductory Section
+7. Methodology Section- Algorithm used 
+8. Result Section - What was the results.
+9. Discussion Section
+10. Conclusions - what is it that we want to act upon 
+
+depending upon the key question that the report is answering. we should keep it long or short
