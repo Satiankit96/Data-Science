@@ -1,5 +1,4 @@
 Module 1: Overview of Data Science Tools  
-
 - Describe the components of a Data Scientist's toolkit and list various tool categories
 - List examples of Open Source, Commercial, and Cloud-based tools in various categories
 
