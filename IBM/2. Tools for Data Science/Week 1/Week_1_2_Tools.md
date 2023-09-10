@@ -66,3 +66,22 @@ ________________________________________________________________________________
 Cloud Based Tools for data science
 - Azure Machine Learning 
 - IBM Watson studio 
+- H20.ai
+
+Data Management
+- Comprises if if SaaS versions of existing open source tools.
+- Amazon DynamoDB, Cloudant, IBM DB2
+
+Data integration  ETL Tools 
+- Informatica cloud, IBM data rifenary 
+
+Visualisations 
+- IBM cognos Analytics 
+
+Model building 
+- Multiple clouds have the ai solutions.
+
+Model deployment 
+- Many times this is overlapped with the model building. 
+- SO the same cloud comply for this 
+- Amazon SageMaker Model Monitor vb 
