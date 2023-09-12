@@ -13,7 +13,7 @@ Search the data set and create
 Machine Learning Models - Models are created by running data through a model with comute resources and SME.
 Learning Model types
 1. Supervised - Identifies the relationships between the input data and the correct data
-    - Reinforced Learning - To predict real numerical values (Prediction Model)
+    - Regression- To predict real numerical values (Prediction Model)
     - Classification - Putting data into categories (Spam coollection)
 
 
@@ -34,3 +34,7 @@ How they solve a problem
 
 Model Asset exchange - IBM Research (MAX)
 Open source repository  
+
+- ml-exchange.org
+- View Model 
+- Open in Code pen to work on the web browser
