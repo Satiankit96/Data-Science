@@ -25,3 +25,13 @@ Asking Questions
 8. evaluation - Does the modelanswer the initial issue
 9. Deployment - Can this be put into practice
 10. feedback - Can it be presented and gain some feedback 
+
+Part 1 - Buisness Understanding 
+- Take time to get more clarity. Even if it takes a bit more time in the beginning. 
+- Be clear and chose the best idea that you have to resolve the main question. Maximising Profit or limiting the costs in a business. ()
+The latter generally takes the back seat
+
+Part 2 - analytic approach
+- Identyfying what type of patterns dow we need to look into in order to resolve an question.
+- Classification vs ML model Vs statistical vs Clusttering vs Decision Tree(Coupled with predictive model)
+
