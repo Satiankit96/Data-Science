@@ -10,6 +10,8 @@
 # Lists uses a lot more information as compared to numpy.(Check type of each value in list)
 # Numpy uses contiguous memory. Which means storage next to each other. (Lists uses a pointer to the memory)
 import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
 a = np.array([1,2,3], dtype = 'int32') # To be more efficient it is always a good idea to mention the dtypes 
 print(a)
 
@@ -87,3 +89,40 @@ print(np.random.rand(4,2))
 
 # ?Random integer value. max values up until 9. 
 print(np.random.randint(9, size=(3,3)))
+
+#  Copying an array 
+
+a = [1,2,3]
+# b = a
+b = a.copy()
+b[0] = 100
+print(b)
+print(a) 
+
+
+# Mathematics
+
+a = np.array([1,2,3,4])
+# Arthematics are performed on each element 
+print(a - 2)
+print(a * 2)
+print(a / 2)
+b = np.array([1,0,1,0])
+print(a + b)
+print(a ** 2)
+
+# Linear algebra 
+## Reference docs (https://docs.scipy.org/doc/numpy/reference/routines.linalg.html)
+
+
+# Stats 
+stats = np.array([[1,2,3],[4,5,6]])
+np.min(stats)
+np.max(stats, axis=1)
+np.sum(stats, axis=0)
+
+
+print (np.linspace(-2, 2, num=10))
+x= 1
+y = np.sin(x)
+print(plt.plot(x, y))
