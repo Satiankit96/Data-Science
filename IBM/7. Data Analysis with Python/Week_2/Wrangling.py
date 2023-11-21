@@ -6,7 +6,9 @@ import pandas as pd
 import numpy as np
 import matplotlib.pylab as plt
 
-
+url = 'http://archive.ics.uci.edu/ml/machine-learning-databases/autos/imports-85.data'
+# df = pd.read_csv(url) # This  Assumes that we have an header. In our case we need to do this.
+df = pd.read_csv(url, header=None)
 # Axis = 0 means the row
 # Using inplace changes the df 
 print(df.dropna(subset=["price"], axis=0, inplace = True ))
