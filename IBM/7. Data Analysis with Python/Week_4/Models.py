@@ -22,12 +22,14 @@ df.columns = headers
 df1=df.replace('?', np.NaN) 
 newdf = df1.dropna()
 
-lm = LinearRegression()
+sns.regplot(x="horsepower", y="price", data = newdf)
 
-X= newdf[['highway-mpg', 'curb_weight', 'engine_size','horsepower']]
-lm.fit(X,newdf['prize'])
-Yhat=lm.predict(X)
-print(Yhat)
+# lm = LinearRegression()
+
+# X= newdf[['highway-mpg', 'curb_weight', 'engine_size','horsepower']]
+# lm.fit(X,newdf['prize'])
+# Yhat=lm.predict(X)
+# print(Yhat)
 # df_sorted = newdf.sort_values(by = ["fuel_type", "price"], ascending= [True,True])
 # if ("fuel_type" == "diesel"):
 #     print(df_sorted.head(100))
