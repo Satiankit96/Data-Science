@@ -3,3 +3,5 @@ Course criterions
 - Trajectory of the field 
 - Effective com
 - Live projects 
+
+Careers paths 
